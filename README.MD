@@ -2,7 +2,7 @@
 
 #### Requirements
 
-- Java 8+
+- Java 11+
 - Gradle
 
 
